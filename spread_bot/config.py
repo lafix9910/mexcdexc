@@ -1,7 +1,7 @@
 import os
 
 # Telegram
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+TELEGRAM_BOT_TOKEN = os.getenv("8615830576:AAFi9jpOj76E46i2mCl-5gbgLBuTlBnWUQw", "YOUR_BOT_TOKEN_HERE")
 CHAT_ID = os.getenv("CHAT_ID", None)
 
 # Спред
